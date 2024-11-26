@@ -1,3 +1,0 @@
-/home/obaidsafi31/CLionProjects/Radix Sort/cmake-build-debug/CMakeFiles/Radix_Sort.dir
-/home/obaidsafi31/CLionProjects/Radix Sort/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/obaidsafi31/CLionProjects/Radix Sort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
