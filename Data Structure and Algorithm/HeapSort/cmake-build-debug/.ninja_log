@@ -1,0 +1,4 @@
+# ninja log v6
+367	458	1732336872723396155	HeapSort	d0bda20ac7978eb9
+0	366	1732336872356402690	CMakeFiles/HeapSort.dir/HeapSort.cpp.o	1f2aef442b796f1f
+1	28	1732337218291893488	build.ninja	bea407a3fefb1591
