@@ -1,3 +1,0 @@
-/home/obaidsafi31/CLionProjects/HeapSort/cmake-build-debug/CMakeFiles/HeapSort.dir
-/home/obaidsafi31/CLionProjects/HeapSort/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/obaidsafi31/CLionProjects/HeapSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
