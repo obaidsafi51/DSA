@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{6e5255a9-c83c-4bdf-bf10-e49d513d9cc3}</ProjectGuid>
-    <RootNamespace>My01Array</RootNamespace>
+    <ProjectGuid>{cccb3fa5-82ce-4a6b-9f61-52c275869912}</ProjectGuid>
+    <RootNamespace>CircularQueue</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="01_Array.cpp" />
+    <ClCompile Include="Circular Queue.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

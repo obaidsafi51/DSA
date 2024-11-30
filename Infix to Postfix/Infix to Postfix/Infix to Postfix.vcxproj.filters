@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="01_Array.cpp">
+    <ClCompile Include="Infix to Postfix.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
